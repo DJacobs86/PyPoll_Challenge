@@ -24,7 +24,7 @@ Below is a list of the total votes casted, along with a breakdown of each county
   - 73.8% with 272,892 votes
 - Raymon Anthony Doane
   - 3.1% with 11,606 votes
-- ![Election Results](https://imgur.com/a/ZhqauO1)
+- ![Election Results]([Imgur](https://imgur.com/iZlDV6I))
 [^3]:
 Using the data above you can see that ***Denver*** was the county with the most votes at ***306,055***, and our big winner is ***Diana Degette!*** Dianna pulled in ***73.8%*** of the votes scoring her ***272,892*** votes!
 
